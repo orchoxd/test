@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 hola xd
 
@@ -11,3 +12,5 @@ nuevos items
 
 trabajo
 
+=======
+>>>>>>> parent of d5123ac (nueva data)
